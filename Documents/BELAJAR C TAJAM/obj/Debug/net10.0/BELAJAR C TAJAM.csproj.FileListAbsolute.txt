@@ -1,0 +1,14 @@
+C:\Users\User\Documents\BELAJAR C TAJAM\bin\Debug\net10.0\BELAJAR C TAJAM.exe
+C:\Users\User\Documents\BELAJAR C TAJAM\bin\Debug\net10.0\BELAJAR C TAJAM.deps.json
+C:\Users\User\Documents\BELAJAR C TAJAM\bin\Debug\net10.0\BELAJAR C TAJAM.runtimeconfig.json
+C:\Users\User\Documents\BELAJAR C TAJAM\bin\Debug\net10.0\BELAJAR C TAJAM.dll
+C:\Users\User\Documents\BELAJAR C TAJAM\bin\Debug\net10.0\BELAJAR C TAJAM.pdb
+C:\Users\User\Documents\BELAJAR C TAJAM\obj\Debug\net10.0\BELAJAR C TAJAM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\BELAJAR C TAJAM\obj\Debug\net10.0\BELAJAR C TAJAM.AssemblyInfoInputs.cache
+C:\Users\User\Documents\BELAJAR C TAJAM\obj\Debug\net10.0\BELAJAR C TAJAM.AssemblyInfo.cs
+C:\Users\User\Documents\BELAJAR C TAJAM\obj\Debug\net10.0\BELAJAR C TAJAM.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\BELAJAR C TAJAM\obj\Debug\net10.0\BELAJAR C TAJAM.dll
+C:\Users\User\Documents\BELAJAR C TAJAM\obj\Debug\net10.0\refint\BELAJAR C TAJAM.dll
+C:\Users\User\Documents\BELAJAR C TAJAM\obj\Debug\net10.0\BELAJAR C TAJAM.pdb
+C:\Users\User\Documents\BELAJAR C TAJAM\obj\Debug\net10.0\BELAJAR C TAJAM.genruntimeconfig.cache
+C:\Users\User\Documents\BELAJAR C TAJAM\obj\Debug\net10.0\ref\BELAJAR C TAJAM.dll
